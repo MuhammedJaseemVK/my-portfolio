@@ -1,5 +1,4 @@
 import Image from "next/image";
-import React from "react";
 
 import { SimpleTooltip } from "@/components/ui/tooltip";
 import { cn } from "@/lib/utils";

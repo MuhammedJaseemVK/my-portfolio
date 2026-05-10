@@ -265,13 +265,13 @@ export const EXPERIENCES: Experience[] = [
     positions: [
       {
         id: "c47f5903-88ae-4512-8a50-0b91b0cf99b6",
-        title: "University of Sindh",
+        title: "Government Engineering College, Wayanad",
         employmentPeriod: {
-          start: "01.2026",
-          end: "2030",
+          start: "07.2019",
+          end: "2023",
         },
         icon: "education",
-        description: `- Currently studying for a Bachelor's degree in Computer Science.`,
+        description: `- Graduated with Bachelor's degree in Computer science and engineering.`,
         skills: [
           "Software Development",
           "Object-Oriented Programming (OOP)",
@@ -286,43 +286,43 @@ export const EXPERIENCES: Experience[] = [
           "Artificial Intelligence",
         ],
       },
-      {
-        id: "70131ed8-36d9-4e54-8c78-eaed18240eca",
-        title: "FG Degree College Cant",
-        employmentPeriod: {
-          start: "07.2023",
-          end: "06.2025",
-        },
-        icon: "education",
-        description: `- Student of the Intermediate in Computer Science (ICS) Program.
-- Participated in provincial coding project competition, developed a 3D web-based airplane game.
-  - Achieved 2nd position at FG Public School Cantt Exhibition for project showcase.
-- Learned C and C++ programming with strong foundation in computer science fundamentals.
-- Maintained good academic standing throughout intermediate studies.`,
-        skills: [
-          "C Programming",
-          "C++",
-          "Algorithms",
-          "Game Development",
-          "Problem Solving",
-          "Web Development",
-          "Three.js",
-          "Project Development",
-          "Self-learning",
-        ],
-      },
-      {
-        id: "36c4c6fb-02d0-48c0-8947-fda6e9a24af7",
-        title: "New Banat Higher Secondary School",
-        employmentPeriod: {
-          start: "02.2011",
-          end: "05.2023",
-        },
-        icon: "education",
-        description: `- Recognized as the most outstanding student of the section.
-- Developed websites using the html, css, js.`,
-        skills: ["HTML", "CSS", "JavaScript", "Self-learning", "Teamwork"],
-      },
+      //       {
+      //         id: "70131ed8-36d9-4e54-8c78-eaed18240eca",
+      //         title: "FG Degree College Cant",
+      //         employmentPeriod: {
+      //           start: "07.2023",
+      //           end: "06.2025",
+      //         },
+      //         icon: "education",
+      //         description: `- Student of the Intermediate in Computer Science (ICS) Program.
+      // - Participated in provincial coding project competition, developed a 3D web-based airplane game.
+      //   - Achieved 2nd position at FG Public School Cantt Exhibition for project showcase.
+      // - Learned C and C++ programming with strong foundation in computer science fundamentals.
+      // - Maintained good academic standing throughout intermediate studies.`,
+      //         skills: [
+      //           "C Programming",
+      //           "C++",
+      //           "Algorithms",
+      //           "Game Development",
+      //           "Problem Solving",
+      //           "Web Development",
+      //           "Three.js",
+      //           "Project Development",
+      //           "Self-learning",
+      //         ],
+      //       },
+      //       {
+      //         id: "36c4c6fb-02d0-48c0-8947-fda6e9a24af7",
+      //         title: "New Banat Higher Secondary School",
+      //         employmentPeriod: {
+      //           start: "02.2011",
+      //           end: "05.2023",
+      //         },
+      //         icon: "education",
+      //         description: `- Recognized as the most outstanding student of the section.
+      // - Developed websites using the html, css, js.`,
+      //         skills: ["HTML", "CSS", "JavaScript", "Self-learning", "Teamwork"],
+      //       },
     ],
   },
 ];

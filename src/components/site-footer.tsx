@@ -16,11 +16,11 @@ export function SiteFooter() {
           Built by a {""}
           {/* <a
             className="link"
-            href="https://www.linkedin.com/in/abdulrehmanwaseem"
+            href="https://www.linkedin.com/in/jaseemvk"
             target="_blank"
             rel="noopener"
           >
-            abdul rehman
+            Muhammed Jaseem
           </a> */}
           human. The source code is available on{" "}
           <a

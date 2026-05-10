@@ -5,20 +5,20 @@
   "homepage": "https://abdulrehmanwaseem.me",
   "license": "MIT",
   "author": {
-    "name": "Abdul Rehman",
-    "email": "contact@abdulrehmanwaseem.me",
+    "name": "Muhammed Jaseem",
+    "email": "coderjaseem@gmail.com",
     "url": "https://github.com/abdulrehmanwaseem"
   },
   "contributors": [
     {
-      "name": "Abdul Rehman",
-      "email": "contact@abdulrehmanwaseem.me",
+      "name": "Muhammed Jaseem",
+      "email": "coderjaseem@gmail.com",
       "url": "https://github.com/abdulrehmanwaseem"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdulrehmanwaseem/My-Portfolio.git"
+    "url": "git+https://github.com/MuhammedJaseemVK/my-portfolio.git"
   },
   "scripts": {
     "dev": "next dev -p 1408",

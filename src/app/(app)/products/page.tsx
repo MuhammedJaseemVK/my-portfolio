@@ -6,7 +6,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 
 export const metadata: Metadata = {
-  title: "Products - Abdul Rehman",
+  title: "Products - Muhammed Jaseem",
   description:
     "Explore my products and projects built with modern technologies.",
 };

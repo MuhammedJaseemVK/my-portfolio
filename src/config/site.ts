@@ -33,10 +33,10 @@ export const MAIN_NAV: NavItem[] = [
   // },
 ];
 
-export const GITHUB_USERNAME = "abdulrehmanwaseem";
-export const SOURCE_CODE_GITHUB_REPO = "abdulrehmanwaseem/My-Portfolio";
+export const GITHUB_USERNAME = "MuhammedJaseemVK";
+export const SOURCE_CODE_GITHUB_REPO = "MuhammedJaseemVK/my-portfolio";
 export const SOURCE_CODE_GITHUB_URL =
-  "https://github.com/abdulrehmanwaseem/My-Portfolio";
+  "https://github.com/MuhammedJaseemVK/my-portfolio";
 
 export const UTM_PARAMS = {
   utm_source: "https://abdulrehmanwaseem.me",
